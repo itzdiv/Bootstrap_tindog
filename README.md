@@ -1,5 +1,5 @@
 <h1>Tindog - Meet New Dogs Nearby</h1>
-
+<p>Get a live preveiw : https://itzdiv.github.io/Bootstrap_tindog/ </p>
 <p>Welcome to Tindog, a web application designed to help dog lovers meet new dogs in their vicinity. This project focuses on the frontend, utilizing the Bootstrap framework to ensure a mobile-responsive and visually appealing design.</p>
 
 <h2>Table of Contents</h2>
